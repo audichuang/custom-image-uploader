@@ -12,7 +12,6 @@
     "inkdrop": ">=5.6.0 <7"
   },
   "keywords": [
-    "inkdrop",
     "plugin",
     "image",
     "upload",
