@@ -1,0 +1,46 @@
+{
+  "name": "inkdrop-custom-image-uploader",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "Upload dropped image URLs to various image hosting services, supporting Imgur, Cloudinary, and SM.MS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/audichuang/custom-image-uploader"
+  },
+  "license": "MIT",
+  "engines": {
+    "inkdrop": ">=5.6.0 <7"
+  },
+  "keywords": [
+    "inkdrop",
+    "plugin",
+    "image",
+    "upload",
+    "imgur",
+    "cloudinary",
+    "smms"
+  ],
+  "author": {
+    "name": "audi",
+    "email": "audi51408@gmail.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0"
+  },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-env",
+        {
+          "targets": {
+            "node": "current"
+          }
+        }
+      ]
+    ]
+  }
+}
