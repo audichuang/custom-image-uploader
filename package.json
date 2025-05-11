@@ -1,5 +1,5 @@
 {
-  "name": "inkdrop-custom-image-uploader",
+  "name": "custom-image-uploader",
   "main": "./lib/index",
   "version": "0.0.0",
   "description": "Upload dropped image URLs to various image hosting services, supporting Imgur, Cloudinary, and SM.MS",
