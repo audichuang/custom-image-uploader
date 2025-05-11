@@ -1,7 +1,7 @@
 {
   "name": "image-uploader-plugin",
   "main": "./lib/index",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Upload dropped image URLs to various image hosting services, supporting Imgur, Cloudinary, and SM.MS",
   "repository": {
     "type": "git",
